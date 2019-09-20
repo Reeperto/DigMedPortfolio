@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 2020 Digital Media Creations
 
 You can use the [editor on GitHub](https://github.com/Reeperto/DigMedPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
