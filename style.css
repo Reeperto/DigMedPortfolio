@@ -11,22 +11,23 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #0789A6;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
 	height: 80px;
-	font-family: 'Russo One', sans-serif;
+	font-family: 'Righteous', cursive;
+	font-size: larger;
 }
 .nav {
-	background: #BBBBBB;
+	background: #FC8E3A;
 	margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
-	height: 60px;
+	height: 45px;
 	text-align: center;
 }
 .content {
@@ -37,7 +38,7 @@ body {
 	text-align: justify;
 }
 .footer {
-	background: #777777;
+	background: #0789A6;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -52,4 +53,15 @@ a:visited {
 }
 a:hover, a:active, a:focus { 
      text-decoration: bold;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.ptitle {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	text-align: center;
 }
