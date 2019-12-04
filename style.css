@@ -45,8 +45,10 @@ body {
 	margin: 0px;
 	float: left;
 	width: 100%;
-	text-align: justify;
+	text-align: center;
 	font-family: 'Roboto Condensed', sans-serif;
+	font-size: larger;
+	line-break: loose;
 }
 
 .acontent {
