@@ -72,6 +72,11 @@ body {
 	height: 936px;
 }
 
+.aboutme {
+	padding: 40px;
+	margin-top: 100px;
+}
+
 .footer {
 	background: #0789A6;
 	color: white;
@@ -94,7 +99,8 @@ a:visited {
 }
 
 a:hover, a:focus {
-	font-size: larger;
+	font-weight: bold;
+	color: rgb(93, 167, 184);
 }
 
 .center {
