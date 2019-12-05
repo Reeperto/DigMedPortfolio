@@ -28,13 +28,15 @@ body {
 }
 
 .nav {
-	background: #FC8E3A;
+	display: table;
+	display: table-cell;
+	background: #F7941D;
 	color: white;
 	margin: 0px;
 	padding: 0;
 	float: left;
-	width: 100%;
-	height: 45px;
+	width: 960px;
+	height: 60px;
 	text-align: center;
 	font-family: 'Righteous', cursive;
 	vertical-align: middle;
@@ -66,7 +68,7 @@ body {
 	margin: 0px;
 	float: left;
 	width: 100%;
-	height: 50px;
+	height: 60px;
 	text-align: center;
 	font-family: 'Righteous', cursive;
 }
@@ -81,8 +83,8 @@ a:visited {
 	 text-decoration: none;
 }
 
-a:hover, a:active, a:focus { 
-     font-size: larger;
+a:hover, a:focus {
+	font-size: larger;
 }
 
 .center {
