@@ -62,6 +62,16 @@ body {
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
+.amcontent {
+	background: #EEEEEE;
+	float: left;
+	width: 100%;
+	text-align: left;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: xx-large;
+	height: 936px;
+}
+
 .footer {
 	background: #0789A6;
 	color: white;
