@@ -77,6 +77,11 @@ body {
 	margin-top: 100px;
 }
 
+.animation {
+	width: 960px;
+	height: 720px;
+}
+
 .footer {
 	background: #0789A6;
 	color: white;
